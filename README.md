@@ -6,11 +6,7 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=benedettasantoro22/covid-19-evaluation-tool)
 
 
-<img
-  src="/code/IMMAGINI-GUI/corona-virus.jpg"
-  alt="Alt text"
-  title=""
-  style="float right;width:200px;height:200px">
+
 
 This is an Android app to comput infection probability from SARS-CoV-2 in closed settings. User's can sign up with their e-mail and password and save all the evaluations on a remote database powered by Firebase. 
 The whole code is written in Kotlin
