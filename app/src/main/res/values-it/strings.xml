@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Valutazione del rischio da Covid-19 </string>
+    <string name="welcome">Benvenuto \n nell\'app di valutazione del rischio da Covid-19</string>
+    <string name="welcome_message">Benvenut*</string>
+    <string name="login">Log in</string>
+    <string name="log">Esci</string>
+    <string name="question">Possiede già un account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirms">Conferma password</string>
+    <string name="create">Crea account</string>
+    <string name="submit">Invia</string>
+    <string name="home">Home</string>
+    <string name="room">Stanza</string>
+    <string name="occupants">Occupanti</string>
+    <string name="prob">Probabilità di infezione</string>
+    <string name="prob_comp">Calcola la probabilità di infezione</string>
+    <string name="new_evaluation">Nuova valutazione</string>
+    <string name="volume">Volume</string>
+    <string name="ventilation">Ventilazione [ric. aria/h]</string>
+    <string name="humidity">Umidità relativa (RH) [%]</string>
+    <string name="filter">Filtri HEPA</string>
+    <string name="i">Nr. di occupanti infetti (I)</string>
+    <string name="maskI">Mascherine indossate da I</string>
+    <string name="activity">Attività degli infetti</string>
+    <string name="s">Nr. di occupanti suscettibili (S)</string>
+    <string name="maskS">Mascherine indossate da S</string>
+    <string name="time">Tempo di occupazione [h]</string>
+    <string name="history"> Cronologia valutazioni</string>
+    <string name="create_account">Crea un account</string>
+    <string name="forgot_password">Password dimenticata?</string>
+    <string name="meter_squared"> [m<sup><small>2</small></sup>]</string>
+    <string name="information">Inserisci le informazioni rischieste</string>
+    <string name="message" > Questo è l\'elenco delle valutazioni che hai salvato sul tuo dispositivo. \nSe vuoi vedere il dettaglio di una valutazione, clicca sulla barra corrispondente. </string>
+    <string name="message_hepa">Spunta la casella se la stanza è dotata di filtri HEPA</string>
+    <string name="please">Per favore, riempi tutti i campi</string>
+    <string name="details" > Salva valutazione</string>
+    <string name="val">Valutazione</string>
+    <string name="ev">Dettagli valutazione</string>
+    <string name="ppe">Dispositivi di protezione personale</string>
+    <string name="next_page">Avanti</string>
+    <string name="back_page">Indietro</string>
+    <string name="log_succ">Log in effettuato con successo</string>
+    <string name="date">Data</string>
+    <string name="no">nessuna</string>
+    <string name="surgical">masc. chirurgica</string>
+    <string name="ffp2">masc. FFP2 </string>
+    <string name="breath">respirare</string>
+    <string name="speak">parlare</string>
+    <string name="sing">cantare</string>
+    <string name="message_data"> Nessuna valutazione trovata</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

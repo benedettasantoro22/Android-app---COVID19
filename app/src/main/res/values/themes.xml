@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Covid19EvaluationRisk" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#b2b1cf</item>
+        <item name="android:background">@drawable/my_gradient_drawable</item>
+    </style>
+
+
+
+
+ </resources>
