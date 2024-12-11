@@ -468,7 +468,7 @@ fun DetailsScreen(
 
                 item {
                     Text(
-                        text = String.format(Locale.US,"%.2f",prob),
+                        text = String.format(Locale.US,"%.1f",prob),
                         fontSize = 18.sp
                     )
                 }
