@@ -239,7 +239,7 @@ private fun DisplayText(
     ) {
         // Text that shows the number inside the circle
         Text(
-            text = String.format(Locale.US,"%.2f",animateNumber) + " %",
+            text = String.format(Locale.US,"%.1f",animateNumber) + " %",
             style = dataTextStyle
         )
 
